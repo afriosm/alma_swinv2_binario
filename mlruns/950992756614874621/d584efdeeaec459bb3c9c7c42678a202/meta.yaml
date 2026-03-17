@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kmtorres/Documentos/Documents/PROYECTOS/PROYECTOS_ALMA/ALMA/modelos_individuales/modelos_binarios/mlruns/950992756614874621/d584efdeeaec459bb3c9c7c42678a202/artifacts
+end_time: 1773756282205
+entry_point_name: ''
+experiment_id: '950992756614874621'
+lifecycle_stage: active
+run_id: d584efdeeaec459bb3c9c7c42678a202
+run_name: fold_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773756206260
+status: 4
+tags: []
+user_id: kmtorres
